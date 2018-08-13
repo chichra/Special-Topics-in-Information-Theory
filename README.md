@@ -81,6 +81,6 @@ python memcrashed.py
 ### Observations
 
 The following results were observed on running the attack.
-![alt text](/home/kanu/Downloads/stis/1.png)
-![alt text](/home/kanu/Downloads/stis/2.png)
-![alt text](/home/kanu/Downloads/stis/wireshark.png)
+![alt text](https://github.com/chichra/Special-Topics-in-Information-Theory/blob/master/1.png)
+![alt text](https://github.com/chichra/Special-Topics-in-Information-Theory/blob/master/2.png)
+![alt text](https://github.com/chichra/Special-Topics-in-Information-Theory/blob/master/wireshark.png)
